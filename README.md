@@ -21,3 +21,5 @@ How to run the repo
 2.	Run npm install
 3.	Run npm start to run the app in localhost
 4.	Run npm dev for development environment
+
+![image of the app](Slide2.png)
