@@ -4,13 +4,13 @@ Chat app is built using the socket io, javascript library which provides real ti
 
 The app can be used by anyone to join the chat room if the person provide the name and the chat room name.
 
-## Tools used
+### Tools used
 * Websocket io
 * NodeJS
 * HTML5
 * CSS3
 
-## NPM Packages
+### NPM Packages
 * Bad-words
 * Express
 * Nodemon
